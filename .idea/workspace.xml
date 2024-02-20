@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f209bd3a-3636-466f-a993-38675f5b47ad" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Practice_Project/shop.spec.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2c4Xsc3teQ3xsrnZCwgTKJYRCf1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.ElementsBasics.js.executor": "Run",
+    "Node.js.ProtractorTestRunner.js.executor": "Run",
+    "Protractor.BasicsProtractorRunner.executor": "Run",
+    "Protractor.InteractWithInputsRunner.executor": "Run",
+    "Protractor.ProtractorTestRunner.executor": "Run",
+    "Protractor.Sample_Project.executor": "Run",
+    "Protractor.Sample_Project2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "javascript.nodejs.core.library.configured.version": "20.11.0",
+    "javascript.nodejs.core.library.typings.version": "20.11.17",
+    "last_opened_file_path": "D:/Protractor_Tutorial_webstorm/Practice_Project2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.protractor.protractor_package": "D:/Protractor_Tutorial_webstorm/node_modules/protractor",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Protractor_Tutorial_webstorm\Practice_Project2" />
+      <recent name="D:\Ruby\Protractor_Tutorial_webstorm\Practice_Project" />
+      <recent name="D:\Ruby\Protractor_Tutorial_webstorm\InteractsWithInputs" />
+      <recent name="D:\Ruby\Protractor_Tutorial_webstorm\BasicsProtractor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Protractor.Sample_Project2">
+    <configuration name="BasicsProtractorRunner" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/BasicsProtractor/configuration.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$USER_HOME$/AppData/Roaming/npm/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InteractWithInputsRunner" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/../../Protractor_Tutorial/Basics_Protractor/InteractWithInputs/configuration.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$USER_HOME$/AppData/Roaming/npm/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProtractorTestRunner" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/configuration.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$USER_HOME$/AppData/Roaming/npm/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sample_Project" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/Practice_Project/configuration.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sample_Project2" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/Practice_Project2/configuration.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ElementsBasics.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/BasicsProtractor/ElementsBasics.js" working-dir="$PROJECT_DIR$/BasicsProtractor">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.ElementsBasics.js" />
+      <item itemvalue="Protractor.ProtractorTestRunner" />
+      <item itemvalue="Protractor.BasicsProtractorRunner" />
+      <item itemvalue="Protractor.Sample_Project2" />
+      <item itemvalue="Protractor.Sample_Project" />
+      <item itemvalue="Protractor.InteractWithInputsRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.ElementsBasics.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f209bd3a-3636-466f-a993-38675f5b47ad" name="Changes" comment="" />
+      <created>1707372032336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707372032336</updated>
+      <workItem from="1707372033726" duration="75952000" />
+      <workItem from="1707910739160" duration="1363000" />
+      <workItem from="1707912582873" duration="46061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
